@@ -12,6 +12,7 @@ def sol_equ(a,b,c):
     import math
     #检验numeric
     #检验length
+	
     n = len(a)
     i=0
     while i<n:
