@@ -17,5 +17,5 @@ For personal learning and practice
 ## Personal Information
 * Han Xiya
 * School of Statistics and Mathematics, Central Univesity of Finance and Economics
-* syahan@foxmal.com
+* syahan@foxmail.com
 
